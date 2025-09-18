@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Game Website</title>
+</head>
+<body>
+  <h1>Welcome to My Game Website!</h1>
+  <ul>
+    <li><a href="https://example.com/bitlife" target="_blank">Play BitLife Free - Life Simulator Game</a></li>
+    <!-- Add more games here -->
+  </ul>
+</body>
+</html>
